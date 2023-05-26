@@ -37,12 +37,12 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(1300, 400);
+  createCanvas(1000, 400);
   trilha.loop();
 }
 
 function draw() {
-    background(0);
+    background(purple);
     mostraBolinha();
     movimentaBolinha();
     colisãoBorda();
