@@ -11,8 +11,8 @@ let raqueteComprimento = 7;
 let raqueteAltura = 70;
 
 //variáveis da raquete
-let xRaquete = 400;
-let yRaquete = 400;
+let xRaquete = 3;
+let yRaquete = 150;
 
 //variáveis do oponente
 let xRaqueteOponente = 400;
