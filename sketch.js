@@ -37,7 +37,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(1200, 1200);
   trilha.loop();
 }
 
