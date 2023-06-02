@@ -15,8 +15,8 @@ let xRaquete = 3;
 let yRaquete = 150;
 
 //variáveis do oponente
-let xRaqueteOponente = 150;
-let yRaqueteOponente = 150;
+let xRaqueteOponente = 1200;
+let yRaqueteOponente = 1200;
 let velocidadeYOponente;
 
 let colidiu = false;
@@ -37,7 +37,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(1200, 1200);
+  createCanvas(400, 400);
   trilha.loop();
 }
 
