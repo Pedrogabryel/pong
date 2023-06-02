@@ -15,8 +15,8 @@ let xRaquete = 3;
 let yRaquete = 150;
 
 //variáveis do oponente
-let xRaqueteOponente = 1200;
-let yRaqueteOponente = 1200;
+let xRaqueteOponente = 1290;
+let yRaqueteOponente = 150;
 let velocidadeYOponente;
 
 let colidiu = false;
