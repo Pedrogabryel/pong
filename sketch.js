@@ -11,12 +11,12 @@ let raqueteComprimento = 7;
 let raqueteAltura = 70;
 
 //variáveis da raquete
-let xRaquete = 3;
+  let xRaquete = 10;
 let yRaquete = 150;
 
 //variáveis do oponente
-let xRaqueteOponente = 1200;
-let yRaqueteOponente = 400;
+let xRaqueteOponente = 1300;
+let yRaqueteOponente = 150;
 let velocidadeYOponente;
 
 let colidiu = false;
